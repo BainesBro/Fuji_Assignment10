@@ -1,16 +1,14 @@
 # File Name: weather.py
-# Student Name: Collin Baines / 
-# email: bainesct@mail.uc.edu
+# Student Name: Collin Baines / Vanshika Rana
+# email: bainesct@mail.uc.edu, ranava@mail.uc.edu
 # Assignment Number: Assignment 10
 # Due Date: 04/10/2025
 # Course #/Section: IS4010-002
 # Semester/Year: Spring/2025
 # Brief Description of the assignment: This assignment is meant to familiarize us with API's and manipulating data with them.
-
 # Brief Description of what this module does: This module creates functions that allow us to manipulate data in our chosen API.
-# Citations: 
-
-# Anything else that's relevant:
+# Citations: https://openweathermap.org/current , https://home.openweathermap.org/api_keys
+# Anything else that's relevant: N/A
 
 import requests
 import csv
